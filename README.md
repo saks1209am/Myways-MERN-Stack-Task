@@ -36,6 +36,10 @@ run the script at the first level:
 $ echo "JWT_SECRET=YOUR_JWT_SECRET" >> ./server/src/.env
 ```
 
+![reset_password](https://user-images.githubusercontent.com/30996074/97890236-50cc7600-1d53-11eb-86a1-ec80548d83ce.jpg)
+
+
+
 ### Start
 
 ```terminal
