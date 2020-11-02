@@ -9,7 +9,7 @@ notice, you need client and server runs concurrently in different terminal sessi
 ```terminal
 $ cd client   // go to client folder
 $ npm i       // npm install pacakges
-$ npm run dev // run it locally
+$ npm start // run it locally
 
 // deployment for client app
 $ npm run build // this will compile the react code using webpack and generate a folder called docs in the root level
