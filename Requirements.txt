@@ -1,0 +1,9 @@
+Npm version: 6.13.4
+React version: 17.0.1
+MongoDB Atlas
+Express 
+materializecss library
+Open Sans Font
+
+Note: All the libraries are mentioned in my project in import section 
+at the top of each js file.
