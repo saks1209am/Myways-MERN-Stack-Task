@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+a{
+    color: #000000 !important;
+}
+/* .col-md-3 offset-md-3{
+    text-align: center;
+} */
+
+.mycard{
+    margin-top: 30px;
+}
+
+
+.auth-card{
+    padding: 20px;
+    text-align: center;
+    max-width: 400px;
+    margin: 10px auto;
+}
+
+
+
+#toast-container{
+  top: 30px !important;
+  right: 20px !important;
+  left: auto !important;
+}

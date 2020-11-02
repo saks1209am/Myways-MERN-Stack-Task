@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    align-content: "center";
+    padding: 150px 70px 0px 150px;
+    font-size: 42px;
+}
+p{
+    font-family: 'Open Sans';
+    font-weight: 'Regular';
+    font-size: 26px;
+    display: flex;
+    padding: 0px ;
+    text-align:center;
+}
+
+.vertical-center {
+  margin: 0;
+  position: fixed;
+  -ms-transform: translateY(50%);
+  transform: translateY(50%);
+  transform: translateX(270%);
+  color: #ffffff;
+}
+
+.vertical-center > Button{
+  text-align: center;
+  border-radius: 40px;
+  color: #ffffff;
+  font-family: 'Open Sans ';
+  font-weight: bold;
+  line-height:33px;
+  font-size: 24px ;
+  width: 150px;
+  height: 50px;
+  font-style: bold;
+  outline: none;  
+  background-color:#7ECB20;
+
+}
