@@ -19,6 +19,10 @@ $ npm run build // this will compile the react code using webpack and generate a
 $ npm run start // this will run the files in docs, this behavior is exactly the same how gh-pages will run your static site
 ```
 
+
+![signup_web](https://user-images.githubusercontent.com/30996074/97889279-2e862880-1d52-11eb-87d3-6cf344eac075.jpg)
+
+
 ## Server-side usage(PORT: 5000)
 
 ### Prepare your secret
